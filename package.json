@@ -49,8 +49,8 @@
     "domhandler": "^5.0.3",
     "domutils": "^3.0.1",
     "htmlparser2": "^8.0.1",
-    "parse5": "^7.0.0",
-    "parse5-htmlparser2-tree-adapter": "^7.0.0",
+    "parse5": "^6.0.1",
+    "parse5-htmlparser2-tree-adapter": "^6.0.0",
     "tslib": "^2.4.0"
   },
   "devDependencies": {
